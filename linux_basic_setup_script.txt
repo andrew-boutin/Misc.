@@ -12,3 +12,7 @@ echo "export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3" >> ~/.bashrc
 echo "export WORKON_HOME=~/Env" >> ~/.bashrc
 echo "source /usr/local/bin/virtualenvwrapper.sh" >> ~/.bashrc
 source ~/.bashrc
+
+# SSH keys
+ssh-keygen -t rsa
+cat ~/.ssh/id_rsa.pub
