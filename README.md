@@ -1,4 +1,4 @@
-# Misc.
+# misc
 
 My miscellanious programs, scripts, files, and things.
 
