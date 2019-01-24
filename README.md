@@ -1,11 +1,8 @@
-Other
-=====
+# Misc.
 
-Various code snippets that don't belong to a designated project.
+My miscellanious programs, scripts, files, and things.
 
 ---
 
-###### Author
+Check out my [personal site](https://andrewboutin.com)!
 
-Andy Boutin
-www.andrewboutin.com
